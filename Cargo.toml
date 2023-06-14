@@ -1,0 +1,8 @@
+[workspace]
+
+members = ["hello-world", "std-library-types", "scoping-rules"
+    , "variable-bindings",
+     "types",
+    "conversion",
+    "expressions",
+]
