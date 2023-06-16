@@ -5,4 +5,6 @@ members = ["hello-world", "std-library-types", "scoping-rules"
      "types",
     "conversion",
     "expressions",
+    "flow-of-control",
+    "traits",
 ]
